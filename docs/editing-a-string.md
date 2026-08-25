@@ -5,6 +5,7 @@ post_name: editing-a-string
 lang: zh
 taxonomy:
   category: [glotpress]
+  post_tag: [gp-translate]
 source:
   blog_id: 61
   post_id: 44

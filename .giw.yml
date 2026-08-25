@@ -1,0 +1,6 @@
+folder: docs
+post_type: post
+category: glotpress
+post_author: 1
+content_template: "%%content%%"
+branch: main
