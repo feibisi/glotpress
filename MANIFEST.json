@@ -1,0 +1,96 @@
+{
+  "product": "glotpress",
+  "blog_id": 61,
+  "written": 14,
+  "skipped": 0,
+  "by_lang": {
+    "zh": 13,
+    "mixed": 1
+  },
+  "docs": [
+    {
+      "slug": "overview",
+      "title": "第 1 节 概述：GlotPress 使用手册目录",
+      "lang": "zh",
+      "chars": 922
+    },
+    {
+      "slug": "installation",
+      "title": "第 2 节 安装：安装 GlotPress 的基本步骤",
+      "lang": "zh",
+      "chars": 255
+    },
+    {
+      "slug": "configuration",
+      "title": "第 3 节 配置: 使用 GlotPress 前需要检查的一些配置项",
+      "lang": "zh",
+      "chars": 548
+    },
+    {
+      "slug": "general-overview",
+      "title": "第 4 节 概述: GlotPress 界面功能概述",
+      "lang": "zh",
+      "chars": 955
+    },
+    {
+      "slug": "users",
+      "title": "第 5 节 用户：GlotPress 如何与 WordPress 用户合作",
+      "lang": "zh",
+      "chars": 338
+    },
+    {
+      "slug": "admin-users",
+      "title": "第 6 节 管理员用户：如何创建管理员用户",
+      "lang": "zh",
+      "chars": 408
+    },
+    {
+      "slug": "accessing-glotpress",
+      "title": "第 7 节 访问 GlotPress : 如何在您的 WordPress 网站上访问 GlotPress",
+      "lang": "zh",
+      "chars": 159
+    },
+    {
+      "slug": "creating-a-new-project",
+      "title": "第 8 节 创建新项目: 如何在 GlotPress 中创建新项目",
+      "lang": "zh",
+      "chars": 399
+    },
+    {
+      "slug": "project-actions",
+      "title": "第 9 节 项目操作和翻译：现在 GlotPress 中拥有了一个新的项目，您可以做什么？",
+      "lang": "zh",
+      "chars": 1965
+    },
+    {
+      "slug": "translation-sets",
+      "title": "第 10 节 译文集：如何管理项目中的译文集",
+      "lang": "zh",
+      "chars": 1008
+    },
+    {
+      "slug": "editing-a-string",
+      "title": "第 11 节 编辑字符串：如何实际翻译字符串",
+      "lang": "zh",
+      "chars": 721
+    },
+    {
+      "slug": "locales",
+      "title": "第 12 节 语言环境：按语言环境查看项目",
+      "lang": "mixed",
+      "chars": 4412
+    },
+    {
+      "slug": "glossaries",
+      "title": "第 13 节 词汇表：使用词汇表",
+      "lang": "zh",
+      "chars": 2059
+    },
+    {
+      "slug": "your-profile",
+      "title": "第 14 节 您的个人资料：编辑您的 GlotPress 资料",
+      "lang": "zh",
+      "chars": 168
+    }
+  ]
+}
